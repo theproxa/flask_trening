@@ -1,0 +1,8 @@
+база данных
+
+1) база данных категорий товаров === product_id , categorie_name , categorie_imageT
+2) база данных товаров === post_id , product_name , description , price , product_image 
+
+2.1) база данных коментариев === id , body , post_id , user_id
+
+3) база данных юзеров === user_id , name , email , password 
